@@ -38,4 +38,4 @@ RPG Third-Party License and is not affiliated with The Arcane Library, LLC.
 Shadowdark RPG (c) 2023 The Arcane Library, LLC.
 
 Pregen artwork (c) Gabe Fua and the other credited artists; adventure artwork (c) its credited
-artists. See the adventure's credits page.
+artists. See the adventure's credits page. Hungry Bat and Lesser Mimic art supplied by the module author.

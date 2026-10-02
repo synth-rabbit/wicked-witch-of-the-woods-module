@@ -2,7 +2,7 @@
   "id": "wicked-witch-of-the-woods",
   "title": "Wicked Witch of the Woods",
   "description": "Table-side content for running Wicked Witch of the Woods (Runeforged Tabletop Gaming) with the Shadowdark RPG system: scenes, creatures, pregens, items and a witch countdown. GM notes live outside Foundry.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
@@ -54,5 +54,5 @@
   ],
   "url": "https://synth-rabbit.github.io/wicked-witch-of-the-woods-module",
   "manifest": "https://synth-rabbit.github.io/wicked-witch-of-the-woods-module/module.json",
-  "download": "https://synth-rabbit.github.io/wicked-witch-of-the-woods-module/wicked-witch-of-the-woods-0.1.0.zip"
+  "download": "https://synth-rabbit.github.io/wicked-witch-of-the-woods-module/wicked-witch-of-the-woods-0.1.1.zip"
 }
